@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mood_Display%20/static/css/main.9ba96cbd.css",
+    "main.js": "/Mood_Display%20/static/js/main.ebefc8d2.js",
+    "static/js/453.9534a716.chunk.js": "/Mood_Display%20/static/js/453.9534a716.chunk.js",
+    "index.html": "/Mood_Display%20/index.html",
+    "main.9ba96cbd.css.map": "/Mood_Display%20/static/css/main.9ba96cbd.css.map",
+    "main.ebefc8d2.js.map": "/Mood_Display%20/static/js/main.ebefc8d2.js.map",
+    "453.9534a716.chunk.js.map": "/Mood_Display%20/static/js/453.9534a716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba96cbd.css",
+    "static/js/main.ebefc8d2.js"
+  ]
+}
